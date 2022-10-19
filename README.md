@@ -5,7 +5,7 @@ Fullstack Software Engineer
 ---------------------------
 
 *   🌍  I'm based in Dublin, Ireland
-*   🖥️  See my portfolio at [WIP](http://WIP.com)
+*   🖥️  See my portfolio at *WIP*
 *   ✉️  You can contact me at [cathal1990@gmail.com](mailto:cathal1990@gmail.com)
 *   🧠  I'm currently learning RUST and TensorFlow.js
 
