@@ -5,7 +5,7 @@ Fullstack Software Engineer
 ---------------------------
 
 *   🌍  I'm based in Dublin, Ireland
-*   🖥️  See my portfolio at *WIP*
+*   🖥️  See my portfolio at *WIP* c4thal.dev *WIP*
 *   ✉️  You can contact me at [cathal1990@gmail.com](mailto:cathal1990@gmail.com)
 *   🧠  I'm currently learning TypeScript and Three.js
 
@@ -22,7 +22,6 @@ Fullstack Software Engineer
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/610/693/png-transparent-amazon-aws-logo.png" width="36" height="36" alt="AWS" /></a>
 </p>
 
 ### Socials
