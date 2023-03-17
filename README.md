@@ -7,10 +7,11 @@ Fullstack Software Engineer
 *   🌍  I'm based in Dublin, Ireland
 *   🖥️  See my portfolio at *WIP* c4thal.dev *WIP*
 *   ✉️  You can contact me at [cathal1990@gmail.com](mailto:cathal1990@gmail.com)
-*   🧠  I'm currently learning TypeScript and Java
+*   🧠  I'm currently learning Java
 
 ### Skills 
 <p align="left">
+<a target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
