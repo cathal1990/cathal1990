@@ -7,7 +7,7 @@ Fullstack Software Engineer
 *   🌍  I'm based in Dublin, Ireland
 *   🖥️  See my portfolio at c4thal.dev *WIP*
 *   ✉️  You can contact me at [cathal1990@gmail.com](mailto:cathal1990@gmail.com)
-*   🧠  I'm currently learning Rust & ThreeJS/R3F
+*   🧠  I'm currently learning GO & ThreeJS/R3F
 
 ### Skills 
 <p align="left">
